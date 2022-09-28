@@ -11,7 +11,7 @@ const posts = [
     id: 1,
     author: {
       avatarUrl: 'https://github.com/bruno07dev.png',
-      name: 'BrunoCardoso',
+      name: 'Bruno Cardoso',
       role: 'Fullstack Developer Web and Mobile'
     },
     content: [
